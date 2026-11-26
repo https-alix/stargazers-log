@@ -1,0 +1,23 @@
+[
+  {
+    "name": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "description": "Linux kernel source tree.",
+    "language": "C",
+    "starred_at": "2025-01-18"
+  },
+  {
+    "name": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "description": "TypeScript is a strongly typed programming language that builds on JavaScript.",
+    "language": "TypeScript",
+    "starred_at": "2025-02-06"
+  },
+  {
+    "name": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "description": "Vim-fork focused on extensibility and usability.",
+    "language": "Vim Script",
+    "starred_at": "2025-03-12"
+  }
+]
